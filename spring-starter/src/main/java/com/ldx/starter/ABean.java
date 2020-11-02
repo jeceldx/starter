@@ -13,7 +13,14 @@ import org.springframework.context.annotation.Configuration;
  @Version 1.0
  */
 
-@Configuration
-public class BeanInject {
-    String name="this is Bean inject by @Bean";
+public class ABean {
+    String name="this is ABean";
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
