@@ -1,0 +1,5 @@
+server:
+    port: 8081
+    # ÏîÄ¿Â·¾¶
+    servlet:
+      context-path: /milo
