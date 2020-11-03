@@ -1,4 +1,4 @@
-package com.ldx.starter;/**
+package com.ldx.starter.model;/**
  * Created By lindx 创建于2020/11/2
  * Api
  */

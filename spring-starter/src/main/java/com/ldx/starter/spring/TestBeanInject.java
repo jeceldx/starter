@@ -1,8 +1,9 @@
-package com.ldx.starter;/**
+package com.ldx.starter.spring;/**
  * Created By lindx 创建于2020/11/2
  * Api
  */
 
+import com.ldx.starter.model.ABean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
