@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
  @Version 1.0
  */
 @Configuration
-public class TestBeanInject {
+public class TestABeanInject {
     @Bean
     public ABean aBean(){
         return new ABean();
